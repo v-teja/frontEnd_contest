@@ -1,0 +1,130 @@
+.text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+  }
+nav{
+    position: absolute;
+    width: 1728px;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+}
+
+nav span{
+    position: absolute;
+    width: 180px;
+    height: 29px;
+    left: 38px;
+    top: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+h1, h2 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    color: #000000;
+  }
+
+
+#first{
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 90px;
+
+}
+
+p{
+    position: absolute;
+    width: 1624px;
+    height: 546px;
+    left: 38px;
+    top: 200px;
+
+}
+
+button{
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    left: 38px;
+    top: 350px;
+    background: #000000;
+    color: white;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+
+
+#second{
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 460px;
+}
+
+img{
+    position: absolute;
+    width: 729px;
+    height: 911px;
+    left: 38px;
+    top: 650px;
+    background: #D9D9D9;
+}
+
+#order{
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 1550px;
+}
+
+
+#unorder{
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 1850px;
+
+}
+#order #unorder{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+}
+ol, ul {
+    position: absolute;
+    width: 1624px;
+    height: 174px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+  }
+
+  ol {
+    left: 38px;
+    top: 1700px;
+  }
+  
+  ul {
+    left: 38px;
+    top: 2000px;
+  }
+
